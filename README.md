@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Q/assets/Q.png" alt="Project Logo" width="200px">
+  <img src="demo/Q.png" alt="Project Logo" width="200px">
 </div>
 
 ## <div align="center">Q - Your Ultimate Grocery Shopping Companion 🛒</div>
